@@ -64,10 +64,11 @@ Contributions are welcome! Feel free to open an issue or submit a pull request i
 
 ## History of the Mini-gpt researcher
 
-A project initiated by Akshay P R.
-Key Milestones:
-[09 2024]: Initial concept and prototype developed.
-As we bring in more contributors, the project remains rooted in its mission to provide accessible and reliable information backed by links to the source documents.
+-A project initiated by Akshay P R.
+
+**Key Milestones**:
+-[09 2024]: Initial concept and prototype developed.
+-As we bring in more contributors, the project remains rooted in its mission to provide accessible and reliable information backed by links to the source documents.
 
 ## License
 
