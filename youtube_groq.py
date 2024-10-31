@@ -5,7 +5,6 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Load the API key from the environment variables
-YOUTUBE_API_KEY = 'AIzaSyDSgUdj73fSDu5ZIXICe9WfN8RmeIl2Hro'
 YOUTUBE_SEARCH_URL = "https://www.googleapis.com/youtube/v3/search"
 
 def youtube_search(query, max_results=5):
