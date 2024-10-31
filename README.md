@@ -16,10 +16,10 @@
 - **User-Friendly UI**: Built with PyQt5, the app has an intuitive interface.
 - **Link-Enabled Reports**: Displays clickable links within reports for easy reference.
 
-## Screenshots
+## YouTube:
 
 
-![watch the video](https://img.youtube.com/vi/3IsMvfIMd_4/maxresdefault.jpg)(https://youtu.be/3IsMvfIMd_4)
+![watch the video](https://img.youtube.com/vi/3IsMvfIMd_4/maxresdefault.jpg)(Mini-gpt-researcher)
 
 ## Requirements
 
