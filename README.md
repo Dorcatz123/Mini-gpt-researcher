@@ -16,7 +16,7 @@
 
 ## Requirements
 
-- **Python 3.10>**
+- **Python 3.10**
 - API keys for:
   - **OpenAI GPT**: Used for generating content.
   - **DuckDuckGo, arXiv, and YouTube**: For fetching research data.
