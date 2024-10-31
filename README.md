@@ -19,7 +19,7 @@
 ## YouTube:
 
 
-![watch the video](https://img.youtube.com/vi/3IsMvfIMd_4/maxresdefault.jpg)(Mini-gpt-researcher)
+![watch the video](https://img.youtube.com/vi/3IsMvfIMd_4/maxresdefault.jpg)(https://www.youtube.com/watch?v=3IsMvfIMd_4&t=554s)
 
 ## Requirements
 
