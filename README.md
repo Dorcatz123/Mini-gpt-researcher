@@ -19,6 +19,8 @@
 ## Screenshots
 
 
+![watch the video](https://img.youtube.com/vi/3IsMvfIMd_4/maxresdefault.jpg)(https://youtu.be/3IsMvfIMd_4)
+
 ## Requirements
 
 - **Python 3.10**
