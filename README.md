@@ -1,5 +1,10 @@
 # Mini GPT Researcher
 
+
+![Mini-gpt-researcher](https://github.com/Dorcatz123/Mini-gpt-researcher/blob/main/mini-gpt-researcher.jpg)
+
+
+
 **Mini GPT Researcher** is an interactive desktop application powered by GPT-3.5, which generates comprehensive research reports by querying information from sources like DuckDuckGo, arXiv, and YouTube. The app combines AI and information retrieval to assist users in producing detailed, structured reports based on their queries. The gpt researcher link is here: https://github.com/assafelovic/gpt-researcher
 
 ## Features
