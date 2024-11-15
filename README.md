@@ -33,7 +33,7 @@
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Dorcatz123/Mini-gpt-researcher.git
-   cd mini-gpt-researcher
+   cd Mini-gpt-researcher
    ```
 
 2. **Install dependencies**:
