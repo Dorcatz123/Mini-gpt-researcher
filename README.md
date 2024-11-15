@@ -32,7 +32,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/mini-gpt-researcher.git
+   git clone https://github.com/Dorcatz123/Mini-gpt-researcher.git
    cd mini-gpt-researcher
    ```
 
