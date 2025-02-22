@@ -4,6 +4,10 @@
 ![Mini-gpt-researcher](https://github.com/Dorcatz123/Mini-gpt-researcher/blob/main/mini-gpt-researcher.jpg)
 
 
+## Check out the huggingface space for live agent 🤗: 
+
+https://huggingface.co/spaces/Dorcatz123/Multi_AI_Agents_for_Research
+
 
 **Mini GPT Researcher** is an interactive desktop application powered by GPT-3.5, which generates comprehensive research reports by querying information from sources like DuckDuckGo, arXiv, and YouTube. The app combines AI and information retrieval to assist users in producing detailed, structured reports based on their queries. This project was built motivated by the famous gpt researcher whose link is here: https://github.com/assafelovic/gpt-researcher
 
